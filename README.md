@@ -484,6 +484,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
   * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
+  * [apprefactoring.com](https://apprefactoring.com/) — Source code analysis for duplicates and overlaps in projects
 
 **[⬆ back to top](#table-of-contents)**
 
